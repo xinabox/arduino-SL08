@@ -4,7 +4,7 @@ Digital (I2C) Infrared Temperature Sensor.
 
 Read about this module [here](https://wiki.xinabox.cc/SL08_-_Infrared_Temperature_Sensor).
 
-## About the SL19
+## About the SL18
 This ☒CHIP forms part of the sensor modules 
 
 Module is based off the VEMD2020X01 and VEMD2023X01 chipset 
